@@ -1,0 +1,27 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+text-align: center;
+    font-size: medium;
+    color: aliceblue;
+    width: 100%;
+}
+
+.heading button
+{
+    float: right;
+}
+
+.heading h4
+{
+   display: inline;
+}
+
+.er
+{
+   margin-top: 30px;
+}
