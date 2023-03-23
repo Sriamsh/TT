@@ -23,7 +23,8 @@ var ball = {
 
 function setup(){
   var canvas =  createCanvas(700,600);
-  canvas.center()
+  canvas.center();
+  video=createCapture(700,600);
 }
 
 
